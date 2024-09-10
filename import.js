@@ -1,2 +1,2 @@
-import { consol } from "./hello";
+import { consol } from "./hello.js";
 consol();
